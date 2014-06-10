@@ -1,0 +1,9 @@
+#!/bin/bash
+
+if [ -z "$1" ]
+    then
+        echo "Usage: ./deploy "commit message""
+        exit 1
+fi
+
+rake generate && rake deploy && git commit -m "$1" && git push origin source
