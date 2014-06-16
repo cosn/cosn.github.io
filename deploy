@@ -6,4 +6,4 @@ if [ -z "$1" ]
         exit 1
 fi
 
-rake generate && rake deploy && git commit -m "$1" && git push origin source
+rake generate && rake deploy && git commit -a -m "$1" && git push origin source
