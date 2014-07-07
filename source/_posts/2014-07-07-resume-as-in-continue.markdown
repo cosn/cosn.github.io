@@ -6,25 +6,73 @@ comments: true
 categories: 
 ---
 
-Back in high school and college I used to write. Sometimes quite a lot. Sometimes only for myself and sometimes I would publish them publicly. The things I wrote were varied: thoughts, ideas, speeches, articles, reviews, technology etc. 
+Back in high school and college I used to write. Sometimes quite a lot.
+Sometimes only for myself and sometimes I would publish them publicly. The
+things I wrote were varied: thoughts, ideas, speeches, articles, reviews,
+technology etc. 
 
-After I joined Microsoft I wasn't writing as much. I stopped doing public speaking, so that dropped off completely. Thoughts and ideas were the first to go. And for a while, I attempted to keep a technical blog (on my newly minted [MSDN][1] address), but that was also rather short lived. Slowly but surely, the only things I would write were Facebook posts, and even those were mostly check-ins and photos.
+After I joined Microsoft I wasn't writing as much. I stopped doing public
+speaking, so that dropped off completely. Thoughts and ideas were the first to
+go. And for a while, I attempted to keep a technical blog (on my newly minted
+[MSDN][1] address), but that was also rather short lived. Slowly but surely,
+the only things I would write were Facebook posts, and even those were mostly
+check-ins and photos.
 
-The excuses are many, and none unique: time, laziness, complacency. Carry a notepad with me; what am I, a savage? Pen and paper are for my parents, I keep everything digitally. But obviously I'm not carrying a laptop with me all the time. And typing on the phone, while appropriate for text messages, is rather inconvenient for anything longer or formatted. After all, nobody reads the things I publish, and nobody really knows about the things I don't.
+The excuses are many, and none unique: time, laziness, complacency. Carry a
+notepad with me; what am I, a savage? Pen and paper are for my parents, I keep
+everything digitally. But obviously I'm not carrying a laptop with me all the
+time. And typing on the phone, while appropriate for text messages, is rather
+inconvenient for anything longer or formatted. After all, nobody reads the
+things I publish, and nobody really knows about the things I don't.
 
-Somewhere along the way, I lost track of **why** I was writing in the first place. It was to organize _my_ thoughts. It was to improve _my_ communication skills. And it was for _me_ to keep a history of things that I would otherwise forget. It was never about getting other people's attention, and if a post I wrote helped someone, great; but it was never a goal.
+Somewhere along the way, I lost track of **why** I was writing in the first
+place. It was to organize _my_ thoughts. It was to improve _my_ communication
+skills. And it was for _me_ to keep a history of things that I would otherwise
+forget. It was never about getting other people's attention, and if a post I
+wrote helped someone, great; but it was never a goal.
 
 <!-- more -->
 
-Luckily at Microsoft we used email. A lot. Too much actually, but that's for a different time. Luckily, because it allowed me to continue fine-tuning my communication skills. Most people who know me have realized at some point or another that I choose my words very carefully, especially in written communication. Being able to express yourself in a clear and concise manner is non-trivial, and I've witnessed many failures (my own included) on a daily basis.
+Luckily at Microsoft we used email. A lot. Too much actually, but that's for a
+different time. Luckily, because it allowed me to continue fine-tuning my
+communication skills. Most people who know me have realized at some point or
+another that I choose my words very carefully, especially in written
+communication. Being able to express yourself in a clear and concise manner is
+non-trivial, and I've witnessed many failures (my own included) on a daily
+basis.
 
-But other things started to fade away: I had to give a talk to a larger audience once, and bombed completely. I wasn't really coming up with creative thoughts anymore. And there were those small details I kept forgetting. Most importantly though, I now realize an even bigger problem I was having: I wasn't learning as much. I slowed down writing technical articles because the technology I was using became very familiar to me, so I wasn't solving new problems. Just like my writing was gone, so were my side projects, which in the past were my outlet to working on things outside of work. 
+But other things started to fade away: I had to give a talk to a larger
+audience once, and bombed completely. I wasn't really coming up with creative
+thoughts anymore. And there were those small details I kept forgetting. Most
+importantly though, I now realize an even bigger problem I was having: I wasn't
+learning as much. I slowed down writing technical articles because the
+technology I was using became very familiar to me, so I wasn't solving new
+problems. Just like my writing was gone, so were my side projects, which in the
+past were my outlet to working on things outside of work. 
 
-So I decided I need to fix this. A few months ago I got myself a nice [notebook][2] and a [pen][3] I would enjoy writing with, and I keep them with me almost at all times. I started sketching out thoughts, ideas and making lists. Next, I started spending less time doing useless things (like watching TV) and instead working on some side projects and learning new things. Since work was all on the Microsoft stack, I decided my projects have to be non-Microsoft. So I started learning [Go][4], reading more papers and tech articles and building libraries and small systems.
+So I decided I need to fix this. A few months ago I got myself a nice
+[notebook][2] and a [pen][3] I would enjoy writing with, and I keep them with
+me almost at all times. I started sketching out thoughts, ideas and making
+lists. Next, I started spending less time doing useless things (like watching
+TV) and instead working on some side projects and learning new things. Since
+work was all on the Microsoft stack, I decided my projects have to be
+non-Microsoft. So I started learning [Go][4], reading more papers and tech
+articles and building libraries and small systems.
 
-The last part is resuming writing a blog, which is where this post comes in. Even as I had time last month in-between jobs, it was the one thing on my todo list I kept procrastinating. So I'll apply the same strategy that I apply with some of my other work I tend to procrastinate: make some public commitment which forces me to actually do the work, even if subconsciously I know that it's not really critical. 
+The last part is resuming writing a blog, which is where this post comes in.
+Even as I had time last month in-between jobs, it was the one thing on my todo
+list I kept procrastinating. So I'll apply the same strategy that I apply with
+some of my other work I tend to procrastinate: make some public commitment
+which forces me to actually do the work, even if subconsciously I know that
+it's not really critical. 
 
-Over the next few weeks I'll write about my recent experiences with changing jobs, the upcoming move from Seattle to San Francisco, new challenges I'll discover in my new job, as well as stuff on the non-technical front. I don't want to set a fixed cadence because I know that won't work. But writing these words down and publishing them to the world, even if nobody reads them (and chances are, few will), will make me write posts. Which will help _me_. And if they help anyone else, well that's just the cherry on top.
+Over the next few weeks I'll write about my recent experiences with changing
+jobs, the upcoming move from Seattle to San Francisco, new challenges I'll
+discover in my new job, as well as stuff on the non-technical front. I don't
+want to set a fixed cadence because I know that won't work. But writing these
+words down and publishing them to the world, even if nobody reads them (and
+chances are, few will), will make me write posts. Which will help _me_. And if
+they help anyone else, well that's just the cherry on top.
 
 [1]: http://blogs.msdn.com/b/cosmin/
 [2]: http://shop.moleskine.com/en-us/notebooks-journals/evernote/evernote-smart-notebook-pocket-ruled-hard-cover-black-6807
