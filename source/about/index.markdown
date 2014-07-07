@@ -2,16 +2,15 @@
 layout: page
 title: "cos"
 date: 2013-07-21 21:33
-comments: true
+comments: false
 sharing: true
 footer: true
 ---
 
 ## WhoAmI
 
-I currently live in Seattle, WA with my wife Monika and our cat Casper (lovingly nicknamed
-the Assassin by our friends for his generous display of affection).
-After graduating Drexel University, I started working as a software developer for Microsoft.
+I currently work as a Software Engineer at [Stripe][3] in San Francisco, CA. 
+Previously I was working at Microsoft building large scale services like Office 365 and Azure.
 
 I've spent most of my professional career building highly available services,
 designing intuitive APIs that are as simple as possible, and writing extensible libraries
@@ -24,7 +23,7 @@ In my free time I enjoy (in no particular order):
 * Learning new things (both technical and non-technical)
 * Running
 * Sports
-* Stand-up
+* Stand-up comedy
 * Tea
 * Traveling
 * Watching movies
@@ -81,3 +80,4 @@ Articles typically belong in one of the following categories:
 
 [1]: https://twitter.com/getCos
 [2]: https://github.com/cosn?tab=repositories
+[3]: https://stripe.com
