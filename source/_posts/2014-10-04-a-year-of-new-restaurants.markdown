@@ -6,11 +6,11 @@ comments: true
 categories: food
 ---
 
-Seattle is a city full of great restaurants with amazing food. And after living
+Seattle is a city full of terrific restaurants with amazing food. And after living
 there for four years, I'm pretty happy that I probably ate at ~80% of them. But
 that means that there's still probably over a dozen places that are really tasty
-that I didn't try out. Even in my last few weeks living there, I was finding
-little gems in the form of lunch trucks around the city or small places in
+which I didn't try out. Even in my last few weeks living there, I was finding
+little gems, in the form of lunch trucks around the city or small places in
 Pike's Place. Given that SF has at least an order of magnitude more restaurants,
 and the average quality is higher due to the inherent competition, a new
 strategy was needed.
@@ -19,8 +19,8 @@ strategy was needed.
 
 ###The paradox
 
-The reality is that, in cities like San Francisco and Seattle, most restaurants
-have some good food. A high number of them have exceptional food. And a few
+The reality is that, in cities like San Francisco or Seattle, most restaurants
+serve good food. A high number of them have exceptional food. And a few
 special have something you can't find anywhere else (like [Paseo][0] and
 [Salumi][1]). And this is where the paradox comes in: once you have a set of
 good restaurants, you're guaranteed to have a tasty meal. But by going to the
@@ -41,12 +41,12 @@ Like anything with rules, there are exceptions. The list below exists not to
 allow me to game the game I set up for myself, but to set expectations for
 scenarios I *know* could result in a check-in to the same place.
 
-* Work lunch places -- there's only a few around anyone's work
+* Work lunch places -- there's only a few around one's work
   place, and when I go it's typically in a group.
-* Takeout/Delivery places -- similarly, there's only a few around anyone's home,
-  and it's very convenient to be able to get some dinner late at night.
+* Takeout/Delivery places -- similarly, there's only a few around one's home,
+  and it's convenient to be able to get some dinner late at night.
 * Brunch vs. Dinner -- the same restaurant can be repeated if one of the meals
-  is a brunch and another is dinner. The menus are typically completely
+  is a brunch and another is dinner. The menus are typically entirely
   different, so it's really like trying out two different restaurants.
 * Out of town visitors -- hopefully friends from Seattle or other parts of the
   world will come to SF. When they do, I want to be able to take them to the
@@ -65,7 +65,8 @@ So, between October 1st, 2014 - October 1st, 2015:
   *Sucks I can't try it out for another year*; *Meh, probably not coming back
   for a year anyways* or *It's going to be much longer than a year
   until I come back here*. 
-* Exceptional places may end up with a blog entry along with some pictures.
+* Exceptional places may end up with a blog entry along with some pictures (and
+  if you're curious about some place, just ping for more details).
 
 There's quite a few people I mentioned this to, who don't think I can pull it
 through. And given my habits in Seattle, I do agree it's going to require lots of
